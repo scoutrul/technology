@@ -9,3 +9,11 @@ body {
 .ul {
 
 }
+
+.specValue {
+	background-color: red
+}
+
+.activeNav {
+	color: #20ea1b !important;
+}
